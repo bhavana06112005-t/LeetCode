@@ -1,2 +1,14 @@
 # LeetCode
 My LeetCode Solutions in Python
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bhavana06112005-t/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bhavana06112005-t/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
