@@ -7,11 +7,13 @@ My LeetCode Solutions in Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavana06112005-t/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/bhavana06112005-t/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavana06112005-t/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavana06112005-t/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/bhavana06112005-t/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +26,12 @@ My LeetCode Solutions in Python
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhavana06112005-t/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/bhavana06112005-t/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/bhavana06112005-t/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
