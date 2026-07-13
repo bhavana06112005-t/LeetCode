@@ -29,6 +29,7 @@ My LeetCode Solutions in Python
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/bhavana06112005-t/LeetCode/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/bhavana06112005-t/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
